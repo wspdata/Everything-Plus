@@ -5,14 +5,6 @@ Projeto de análise de dados aplicado a um e-commerce (Everything Plus) — loja
 
 ---
 
-## Objetivo
-- Segmentar usuários segundo padrões de consumo (tipos de produto adquiridos e comportamento de compra).
-- Realizar Análise Exploratória de Dados (EDA) para entender padrões e outliers.
-- Gerar recomendações de marketing personalizadas para cada segmento.
-- Construir um dashboard (Tableau) para visualização interativa dos resultados.
-
----
-
 ## O que foi feito
 1. **Pré-processamento dos dados**
    - Limpeza, tratamento de valores faltantes e transformação de variáveis relevantes.
