@@ -5,7 +5,7 @@ Projeto de análise de dados aplicado a um e-commerce (Everything Plus) — loja
 
 ---
 
-## O que foi feito
+## Metodologia
 1. **Pré-processamento dos dados**
    - Limpeza, tratamento de valores faltantes e transformação de variáveis relevantes.
 2. **Análise Exploratória de Dados (EDA)**
