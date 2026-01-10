@@ -1,6 +1,6 @@
 # Everything Plus — Segmentação de Usuários e Análise de Compras
 
-**Descrição do Projeto**  
+## Descrição do Projeto  
 Projeto de análise de dados aplicado a um e-commerce (Everything Plus) — loja online de utensílios domésticos. O objetivo principal foi segmentar os usuários com base no histórico de compras e gerar insights para personalização de ofertas e estratégias de marketing.
 
 ---
