@@ -61,7 +61,7 @@ Também foi desenvolvido um dashboard no Tableau para exploração visual dos da
 ## 📂 Conteúdo do Repositório
 
 - **Notebook (.ipynb):** análise completa, incluindo pré-processamento, EDA, clusterização e conclusões  
-- **Dataset (.zip):** dados utilizados no projeto  
+- **ecommerce_dataset (.zip):** dados utilizados no projeto  
 - **Apresentação (.pdf):** síntese dos resultados e recomendações de negócio  
 - **Dashboard (.txt):** link para visualização interativa dos indicadores no Tableau
 - **README (.md)** — Este arquivo.
