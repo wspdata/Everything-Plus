@@ -6,15 +6,24 @@ Projeto de análise de dados aplicado a um e-commerce (Everything Plus) — loja
 ---
 
 ## Metodologia
-1. **Pré-processamento dos dados**
+1. **Elaboração e Decomposição do Projeto**
+   - Definição do problema de negócio, público-alvo, quais decisões serão baseadas nas análises e frequência de uso do dashboard em conjunto com o lider da equipe.
+2. **Pré-processamento dos dados**
    - Limpeza, tratamento de valores faltantes e transformação de variáveis relevantes.
-2. **Análise Exploratória de Dados (EDA)**
+3. **Análise Exploratória de Dados (EDA)**
    - Estatísticas descritivas, distribuições, análise temporal (vendas por dia) e correlações entre variáveis.
-3. **Clusterização**
+4. **Clusterização**
    - Segmentação de usuários com base em características de compra (frequência, ticket médio, categorias preferidas etc.) e análise dos clusters resultantes.
-4. **Interpretação e recomendações**
+5. **Testes de hipóteses**
+     - Formular hipóteses para comparar os clusters e aplicar testes estatísticos
+6. **Conclusões e Apresentação**
    - Descrição do perfil de cada cluster e sugestões acionáveis de marketing e personalização.
-
+   - Apresentação em PDF com:
+      - Metodologia e etapas do projeto
+      - Resultados da segmentação
+      - Conclusões e recomendações de negócio
+7. **Dashboard Interativo**
+   - Elaboração de um dashboard no Tableau para exploração visual dos dados
 ---
 
 ## Principais insights
@@ -60,7 +69,9 @@ Também foi desenvolvido um dashboard no Tableau para exploração visual dos da
 
 ## 📂 Conteúdo do Repositório
 
-- **Notebook (.ipynb):** análise completa, incluindo pré-processamento, EDA, clusterização e conclusões  
+- Notebooks
+   - **decomposição (.ipynb):** planejamento, estruturação e divisão das fases do projeto
+   - **Notebook (.ipynb):** análise completa, incluindo pré-processamento, EDA, clusterização e conclusões
 - **ecommerce_dataset (.zip):** dados utilizados no projeto  
 - **Apresentação (.pdf):** síntese dos resultados e recomendações de negócio  
 - **Dashboard (.txt):** link para visualização interativa dos indicadores no Tableau
@@ -70,7 +81,7 @@ Também foi desenvolvido um dashboard no Tableau para exploração visual dos da
 
 ## Tecnologias e bibliotecas
 - Linguagem: **Python**  
-- Bibliotecas: **pandas**, **numpy**, **matplotlib**, **seaborn**
+- Bibliotecas: **pandas**, **numpy**, **matplotlib**, **seaborn**, **scipy**, **sklearn**
 - Notebook: **Jupyter Notebook**
 - Apresentação: **Google Slides**
 - Visualização interativa: **Tableau**
